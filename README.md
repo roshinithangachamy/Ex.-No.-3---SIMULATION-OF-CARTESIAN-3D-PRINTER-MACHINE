@@ -49,12 +49,10 @@
 
 ## OUTPUT
 ![Screenshot (44)](https://github.com/roshinithangachamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147118341/aca9c64b-19c5-4fdf-8c99-c92910e4c8fd)
+![Screenshot (46)](https://github.com/roshinithangachamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147118341/eb47a951-e408-480c-9728-8e9a12fb9f4e)
+![Screenshot (48)](https://github.com/roshinithangachamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147118341/0f722293-e4c6-4d85-879b-220c36c1e660)
+![Screenshot (50)](https://github.com/roshinithangachamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147118341/b0cc9868-5baf-413c-8089-a65f92896fb3)
 Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
-Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
-Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
-
 ## Output:
 ### Name: T.Roshini
 ### Register Number:23011660
